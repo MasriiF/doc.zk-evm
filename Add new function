@@ -3,5 +3,7 @@
   "extends": "@docusaurus/tsconfig",
   "compilerOptions": {
     "baseUrl": "."
+# New func 1
+# New func 2
   }
 }
